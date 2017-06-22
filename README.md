@@ -1,3 +1,0 @@
-# hello-world
-First repository
-I just add here some random text...
